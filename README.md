@@ -1,26 +1,20 @@
 # Hi there 👋
 
  🏄 I'm MarcoAntonioAG, a full stack developer currently living in Bolivia Country<br />
- 🏡 Working for [Luko](https://luko.eu/) from home<br />
- 🏉 Rugby player & passionate
+ 🏡 Working for https://dungeonswap.app/ from home<br />
 
 # 👨🏼‍💻 Work
 
-I worked for [.mind](https://github.com/dotmind) as a Full Stack Developer.<br />
-I actually work for [Luko](https://luko.eu/) as a Mobile App Developer.<br/>
+I worked for https://www.advancity.com/en/ as a Full Stack Developer.<br />
+
+I worked for https://hometowny.com/ as a Full Stack Developer.<br />
+
 
 # 🎸 Side project
 
 I'm actually working on a sport project. Can't say anymore but stay tuned 🎸
 
-# 🙌🏼 Open source
 
-As a full stack developer I contributed on different projects like:
-- [rn-shadow-generator](https://github.com/dotmind/rn-shadow-generator)
-- [appscanner-cli](https://github.com/dotmind/appscanner-cli)
-- [react-native-gif-search](https://github.com/Thanasis1101/react-native-gif-search)
-- [node-mongo-dump](https://github.com/dotmind/node-mongo-dump)
-- [react-native-anchor-point](https://github.com/sueLan/react-native-anchor-point)
 
 # ⚡️ Expertise
 
