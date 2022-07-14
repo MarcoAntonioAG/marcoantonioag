@@ -4,7 +4,7 @@
  🏄 I'm MarcoAntonioAG, a full stack developer currently living in Bolivia Country<br />
 My main specialization is a full Stack development of rich Web and Mobile apps based on a JavaScript stack of technologies with 10+ years of experience. <br />
 
-# 👨🏼‍💻 Profile Overview.
+# 👨🏼‍💻 Profile 
 
  To become a superb frontend developer and support the best qualities, and satisfaction to the clients with honestly, constant creation, and passion: it's our principle as a web expert. <br />
  Ready to take any kind of challenges in any situation. Always make sure of the quick turnaround of my job as I never disappoint any of my clients.<br />
