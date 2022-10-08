@@ -7,7 +7,7 @@ My main specialization is a full Stack development of rich Web and Mobile apps b
 # 👨🏼‍💻 Profile 
 
  To become a superb frontend developer and support the best qualities, and satisfaction to the clients with honestly, constant creation, and passion: it's our principle as a web expert. <br />
- Ready to take any kind of challenges in any situation. Always make sure of the quick turnaround of my job as I never disappoint any of my clients.<br />
+ Ready to take any kind of challenges in any situation.<br />
  Expert enough to manage any kind of job environment by coming up with my multitasking expertise. <br />
  Always try to learn new things and update the previous knowledge. <br />
  Confident to carry the tasks efficiently and accurately.<br />
